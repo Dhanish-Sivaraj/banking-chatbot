@@ -1,0 +1,6 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+streamlit==1.25.0
+requests==2.31.0
+spacy==3.6.1
+python-multipart==0.0.6
