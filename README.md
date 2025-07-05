@@ -63,6 +63,5 @@ neobank-ai-assistant/
 
 ## 📬 Contact
 
-Built by **Your Name**  
-📧 Email: your.email@example.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/your-profile)
+Built by Dhanish 
+📧 Email: dhanish2468@gmail.com
